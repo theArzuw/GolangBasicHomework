@@ -19,7 +19,8 @@ func main() {
 	finalContribution := float64(final) * 0.7
 
 	//Collect 30% of the visa grade and 70% of the final grade
-	average := visaContribution + finalContribution/2
+	noteTotal := visaContribution + finalContribution
+	average := noteTotal
 
 	//Print average grade to screen
 	fmt.Println("Average: ", average)
