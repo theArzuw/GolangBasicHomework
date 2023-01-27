@@ -3,8 +3,8 @@ package main
 import "fmt"
 
 func main() {
-	//Variable i is incremented by 1 in each cycle,
-	// starting from 1. Returns all numbers up to 100
+	/*Variable i is incremented by 1 in each cycle,
+	starting from 1. Returns all numbers up to 100*/
 
 	for i := 1; i <= 100; i++ {
 
