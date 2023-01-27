@@ -11,5 +11,5 @@ func main() {
 	}
 
 	//Print the sum to the screen
-	fmt.Println("1 ile 100 arasındaki sayıların toplamı: ", sum)
+	fmt.Println("Sum of numbers from 1 to 100: ", sum)
 }
