@@ -1,3 +1,14 @@
+/* Question-8 == The code and flow that calculates the body mass index according to the weight and height information entered by the user and
+at the same time prints the ideal weight status of the person on the screen according to this result prepare the chart.
+Note-1: Body mass index = Weight / Height * Height
+Note-2: Weight => kg, Height => m
+Note-3: Thin if body mass index < 18.5
+ 18.5 < Normal if BMI < 24.9
+ 25 < Overweight if BMI < 29.9
+ 30 < Grade I obese if BMI < 34.9
+ 35 < Grade II obese if BMI < 39.9
+ Grade III obese if body mass index > 40 */
+
 package main
 
 import "fmt"
