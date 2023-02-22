@@ -1,4 +1,4 @@
-/* Question-1 == Find the sum of the two numbers defined.*/
+/* Question-1 == Create the code and flowchart that finds the sum of two defined numbers. */
 
 package main
 
