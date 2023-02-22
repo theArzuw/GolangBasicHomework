@@ -1,4 +1,4 @@
-/* Question-4 == Prepare the code and flowchart that prints the sum of numbers from 1 to 100 on the screen. */
+/* Question-4 == Prepare the code and flowchart that prints the odd numbers from 1 to 100 on the screen. */
 
 package main
 
