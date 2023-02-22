@@ -1,25 +1,28 @@
+/* Question-7 == Prepare the code and flowchart for calculating the average of a student's midterm and final grades.
+(Calculate by taking 30% of the midterm grade and 70% of the final grade.) (Grades will be entered by the user). */
+
 package main
 
 import "fmt"
 
 func main() {
 
-	//Get the student visa and final grade
-	var visa, final int
-	fmt.Println("Please enter visa note: ")
-	fmt.Scanln(&visa)
+	//Get the student midterm and final grade
+	var midterm, final int
+	fmt.Println("Please enter midterm note: ")
+	fmt.Scanln(&midterm)
 	fmt.Println("Please enter final grade: ")
 	fmt.Scanln(&final)
 
-	//Calculate 30% of the visa grade
+	//Calculate 30% of the midterm grade
 
-	visaContribution := float64(visa) * 0.3
+	midtermContribution := float64(midterm) * 0.3
 
 	// Calculate 70% of final grade
 	finalContribution := float64(final) * 0.7
 
-	//Collect 30% of the visa grade and 70% of the final grade
-	noteTotal := visaContribution + finalContribution
+	//Collect 30% of the midterm grade and 70% of the final grade
+	noteTotal := midtermContribution + finalContribution
 	average := noteTotal
 
 	//Print average grade to screen
