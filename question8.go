@@ -1,4 +1,4 @@
-/* Question-8 == The code and flow that calculates the body mass index according to the weight and height information entered by the user and
+/* Question-8 == The code and flowchart calculates the body mass index according to the weight and height information entered by the user and
 at the same time prints the ideal weight status of the person on the screen according to this result prepare the chart.
 Note-1: Body mass index = Weight / Height * Height
 Note-2: Weight => kg, Height => m
