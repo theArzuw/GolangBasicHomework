@@ -1,3 +1,5 @@
+/* Question-6 == Prepare the code and flowchart for finding the average of an array. */
+
 package main
 
 import "fmt"
