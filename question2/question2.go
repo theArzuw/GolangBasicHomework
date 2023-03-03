@@ -1,4 +1,5 @@
 /*Question-2 == Prepare the code and flowchart that prints whether a number is odd or even. */
+
 package main
 
 import "fmt"
